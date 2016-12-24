@@ -1,2 +1,3 @@
 # arquivos
 arquivos publicos
+.
